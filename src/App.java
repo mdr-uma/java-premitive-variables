@@ -15,6 +15,7 @@ public class App {
 		System.out.println(aShort);
 		System.out.println(aLong);
 		System.out.println(aDouble);
+		System.out.println(aFloat);
 	}
 
 }
