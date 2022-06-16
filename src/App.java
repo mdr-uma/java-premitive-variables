@@ -10,12 +10,21 @@ public class App {
 		double aDouble = 3.4553;
 		//float is short version of double and must use f at the end		
 		float aFloat = 5.234f;
+		//char holds single character inside quote		
+		char aChar = 'u';
+		//boolean holds true or false
+		boolean aBoolean = true;
+		//holds only 6 byte of data. can hold positive or negative numbers but it can hold only up to +127 and -128		
+		byte aByte = 127;
 		
 		System.out.println(aValue);
 		System.out.println(aShort);
 		System.out.println(aLong);
 		System.out.println(aDouble);
 		System.out.println(aFloat);
+		System.out.println(aChar);
+		System.out.println(aBoolean);
+		System.out.println(aByte);
 	}
 
 }
